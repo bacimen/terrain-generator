@@ -1,0 +1,9 @@
+#define WIN_HEIGHT 450
+#define WIN_WIDTH 900
+
+#define DEFAULT_FPS 60
+
+#define RECTANGLE_SCALE 30
+
+#define COLUMNS 1200
+#define ROWS 900
