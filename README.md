@@ -30,9 +30,6 @@ $ git clone https://github.com/bacimen/terrain-generator.git terrain-gen
 $ cd terrain-gen
 $ make
 $ make run
+```
 
 And the program should run without any problems.
-
-
-
-```
