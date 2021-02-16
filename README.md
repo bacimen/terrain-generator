@@ -28,6 +28,7 @@ In order to install and build terrain generator:
 ```bash
 $ git clone https://github.com/bacimen/terrain-generator.git terrain-gen
 $ cd terrain-gen
+$ mkdir build
 $ make
 $ make run
 ```
