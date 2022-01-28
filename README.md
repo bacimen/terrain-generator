@@ -13,7 +13,7 @@ In order to build program, firstly you need to install [raylib](https://github.c
 
 ##### Ubuntu
 ```bash
-$ sudo apt install libopenal-dev libglfw3-dev libnosie-dev
+$ sudo apt install libopenal-dev libglfw3-dev libnoise-dev
 ```
 
 
